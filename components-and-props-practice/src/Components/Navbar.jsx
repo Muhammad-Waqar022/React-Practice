@@ -9,7 +9,7 @@ const Navbar = (props) => {
             <ul style={{display:"flex",gap:"20px"} }>
           {props.links.map((link, index) => (
             <li style={{listStyle:"none", fontSize:"22px"}} key={index}>
-              <a style={{textDecoration:"none" ,color:"gold",fontWeight:"600"}} href={link.url}>{link.name}</a>
+              <a style={{textDecoration:"none" ,color:link.color,fontWeight:"600"}} href={link.url}>{link.name}</a>
             </li>
           ))}
         </ul>
