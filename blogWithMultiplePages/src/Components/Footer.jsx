@@ -4,27 +4,56 @@ import { NavLink } from 'react-router-dom'
 const Footer = () => {
   return (
     <>
-    <div className='w-full flex justify-around p-4 absolute bottom-0 bg-amber-500'>
-        <div>
-            logo
-        </div>
-        <div>
-             <ul className="flex gap-5 flex-col">
+      <footer className="w-full bg-gray-800 text-white py-6">
+        <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
+          
+          {/* Logo Section */}
+          <div className="text-2xl font-bold mb-4 md:mb-0">
+            MyBlog
+          </div>
+
+          {/* Navigation Links */}
+          <ul className="flex flex-col md:flex-row gap-4 text-lg">
             <li>
-              <NavLink to="/">Home</NavLink>
+              <NavLink 
+                to="/" 
+                className="hover:text-gray-200 transition-colors duration-200"
+              >
+                Home
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/blog">Blog</NavLink>
+              <NavLink 
+                to="/blog" 
+                className="hover:text-gray-200 transition-colors duration-200"
+              >
+                Blog
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/about">About</NavLink>
+              <NavLink 
+                to="/about" 
+                className="hover:text-gray-200 transition-colors duration-200"
+              >
+                About
+              </NavLink>
             </li>
             <li>
-              <NavLink to="/contact">Contact</NavLink>
+              <NavLink 
+                to="/contact" 
+                className="hover:text-gray-200 transition-colors duration-200"
+              >
+                Contact
+              </NavLink>
             </li>
           </ul>
         </div>
-    </div>
+
+        {/* Bottom Section */}
+        <div className="text-center text-sm mt-4 border-t border-white/20 pt-2">
+          © {new Date().getFullYear()} MyBlog. All rights reserved.
+        </div>
+      </footer>
     </>
   )
 }
