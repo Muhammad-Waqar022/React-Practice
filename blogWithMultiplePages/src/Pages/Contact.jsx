@@ -69,9 +69,9 @@ const Contact = () => {
       {/* Contact Info */}
       <div className="mt-10">
         <h2 className="text-2xl font-semibold mb-3">Other Ways to Connect</h2>
-        <p className="text-gray-700">Email: ranawaqar4343@gmail.com</p>
+        <p className="text-gray-700"><span className="font-bold">Email:</span> ranawaqar4343@gmail.com</p>
         <p className="text-gray-700">
-          Portfolio:{" "}
+         <span className="font-bold">Portfolio:{" "}</span> 
           <a
             href="https://portfolio-muhammad-waqar-ajmal.netlify.app"
             target="_blank"
