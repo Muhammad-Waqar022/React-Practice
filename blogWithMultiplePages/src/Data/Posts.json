@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "10 Proven Tips to Boost Your Productivity",
+    "excerpt": "Struggling to stay productive? Discover 10 actionable tips that will help you manage your time better, stay focused, and get more done every day.",
+    "content": "In today’s fast-paced world, productivity is more important than ever. Whether you’re working from home or managing a busy office schedule, staying focused can be tough. In this article, we’ll cover 10 proven tips to boost your productivity: \n\n1. Plan your day the night before. \n2. Use the Pomodoro technique to break tasks into small chunks. \n3. Eliminate distractions by turning off notifications. \n4. Prioritize your most important tasks (MITs) early in the day. \n5. Take short breaks to recharge your mind. \n6. Delegate tasks when possible. \n7. Keep your workspace organized. \n8. Use tools like Trello or Notion for task management. \n9. Practice single-tasking instead of multitasking. \n10. Reflect on your progress daily. \n\nBy implementing these strategies, you’ll find yourself achieving more while feeling less overwhelmed.",
+    "author": "Sarah Johnson",
+    "date": "2025-08-15",
+    "tags": ["productivity", "time management", "self improvement"]
+  },
+  {
+    "id": 2,
+    "title": "The Beginner’s Guide to Healthy Eating",
+    "excerpt": "Want to eat healthier but don’t know where to start? This guide breaks down simple and effective ways to improve your diet without feeling restricted.",
+    "content": "Healthy eating doesn’t have to be complicated or boring. In fact, small consistent changes can lead to long-term results. Here’s what you should focus on as a beginner: \n\n- Start by drinking more water daily. \n- Add more fruits and vegetables to each meal. \n- Replace processed snacks with whole food options like nuts and yogurt. \n- Limit sugary drinks and refined carbs. \n- Focus on portion control instead of strict calorie counting. \n- Plan your meals ahead of time to avoid unhealthy last-minute choices. \n\nThe goal isn’t perfection — it’s progress. By taking these small steps, you’ll build a healthier relationship with food and feel better both physically and mentally.",
+    "author": "Michael Brown",
+    "date": "2025-08-20",
+    "tags": ["health", "nutrition", "lifestyle"]
+  },
+  {
+    "id": 3,
+    "title": "React vs Vue: Which Framework Should You Choose?",
+    "excerpt": "React and Vue are two of the most popular frontend frameworks. But which one is right for you? Let’s compare their features, pros, and cons.",
+    "content": "Choosing a frontend framework is a big decision for developers. React, created by Facebook, and Vue, created by Evan You, both dominate the modern web development space. Here’s a breakdown: \n\n**React Pros:** Large ecosystem, strong community, flexible architecture. \n**React Cons:** Steeper learning curve for beginners, requires additional libraries for state management. \n\n**Vue Pros:** Easy to learn, great documentation, progressive framework. \n**Vue Cons:** Smaller job market compared to React, ecosystem not as large. \n\nIf you’re aiming for career opportunities, React may be the better choice due to demand. If you want simplicity and fast learning, Vue is excellent. Ultimately, it depends on your goals as a developer.",
+    "author": "Emily Carter",
+    "date": "2025-08-25",
+    "tags": ["web development", "react", "vue", "frontend"]
+  },
+  {
+    "id": 4,
+    "title": "Top 5 Travel Destinations for 2025",
+    "excerpt": "Looking for travel inspiration? Here are the top five destinations to visit in 2025, from hidden gems to popular hotspots.",
+    "content": "Travel is back in full swing for 2025, and wanderlust is stronger than ever. Here are the top five destinations you should consider: \n\n1. Kyoto, Japan — Famous for cherry blossoms and cultural temples. \n2. Lisbon, Portugal — A blend of history, food, and affordable living. \n3. Bali, Indonesia — A tropical paradise with beaches and spirituality. \n4. Cappadocia, Turkey — Hot air balloon rides and unique landscapes. \n5. Reykjavik, Iceland — Northern lights and breathtaking natural beauty. \n\nWhether you love adventure, culture, or relaxation, these spots offer unforgettable experiences.",
+    "author": "David Lee",
+    "date": "2025-08-28",
+    "tags": ["travel", "lifestyle", "destinations"]
+  },
+  {
+    "id": 5,
+    "title": "Why Personal Branding is Essential in 2025",
+    "excerpt": "In a digital-first world, your personal brand is your identity. Learn why building a strong personal brand can open new career and business opportunities.",
+    "content": "Personal branding is no longer optional — it’s essential. With so much competition online, standing out requires more than just skills; you need a recognizable presence. Here’s why personal branding matters in 2025: \n\n- It helps you build trust with your audience. \n- Employers and clients Google you before making decisions. \n- A strong personal brand increases your visibility and opportunities. \n- It differentiates you from competitors. \n- It allows you to showcase your expertise consistently. \n\nStart small: polish your LinkedIn profile, create valuable content, and engage with your community. Over time, your personal brand will become one of your greatest assets.",
+    "author": "Sophia Martinez",
+    "date": "2025-08-30",
+    "tags": ["personal branding", "career", "digital marketing"]
+  }
+]
+

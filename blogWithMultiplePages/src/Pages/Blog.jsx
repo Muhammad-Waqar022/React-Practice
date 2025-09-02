@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
+import posts from "../Data/Posts.json";
+import PostCard from "../Components/PostCard";
 
 const Blog = () => {
   return (
-    <div>Blog</div>
-  )
-}
+    <div>
+      {posts.map((posts) => (
+        <PostCard posts={posts}/>
+      ))}
+    </div>
+  );
+};
 
-export default Blog
+export default Blog;
