@@ -5,7 +5,7 @@ import Home from './Pages/Home'
 import Contact from './Pages/Contact'
 import Layout from './Components/Layout'
 import Blog from './Pages/Blog'
-import NotFound from './Pages/NotFOund'
+import NotFound from './Pages/NotFound'
 import Post from './Pages/Post'
 
 function App() {
